@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+*{
+	width:50vw;
+	height:20px;
+     
+}
+#table-1{
+	border:1px solid black;
+	spacing:1px;
+	padding:1px;
+}
+td{
+	border:1px solid black;
+}
+
+#table-2{
+	border:1px solid black;
+	spacing:1px;
+	padding:1px;
+	margin-top:10px;
+}
+#table-3{
+	border:1px solid black;
+	spacing:1px;
+	padding:1px;
+}
+.t3-clr{
+	margin-top:10px;
+	background:green;
+}
+.t4-clr{
+	background:blue;
+}
